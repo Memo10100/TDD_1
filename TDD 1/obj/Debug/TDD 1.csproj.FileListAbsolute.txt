@@ -1,0 +1,11 @@
+C:\Users\Juan\source\repos\TDD 1\TDD 1\bin\Debug\TDD 1.exe.config
+C:\Users\Juan\source\repos\TDD 1\TDD 1\bin\Debug\TDD 1.exe
+C:\Users\Juan\source\repos\TDD 1\TDD 1\bin\Debug\TDD 1.pdb
+C:\Users\Juan\source\repos\TDD 1\TDD 1\obj\Debug\TDD 1.csprojAssemblyReference.cache
+C:\Users\Juan\source\repos\TDD 1\TDD 1\obj\Debug\TDD 1.csproj.CoreCompileInputs.cache
+C:\Users\Juan\source\repos\TDD 1\TDD 1\obj\Debug\TDD 1.exe
+C:\Users\Juan\source\repos\TDD 1\TDD 1\obj\Debug\TDD 1.pdb
+C:\Users\Juan\Desktop\UDA\Laboratorio II\TDD\TDD 1\TDD 1\obj\Debug\TDD 1.csprojAssemblyReference.cache
+C:\Users\Juan\Desktop\UDA\Laboratorio II\TDD\TDD 1\TDD 1\obj\Debug\TDD 1.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\UDA\Laboratorio II\TDD\TDD 1\TDD 1\obj\Debug\TDD 1.exe
+C:\Users\Juan\Desktop\UDA\Laboratorio II\TDD\TDD 1\TDD 1\obj\Debug\TDD 1.pdb
